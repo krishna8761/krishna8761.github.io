@@ -1,0 +1,77 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Krishna's Blog</title>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>WELCOME TO MY BLOG</h1>
+    <nav>
+      <a href="#about">About</a> | 
+      <a href="#stories">Stories</a> | 
+      <a href="#contact">Contact</a>
+    </nav>
+    <hr>
+  </header>
+
+  <!-- About Section -->
+  <section id="about">
+    <h2>About</h2>
+    <figure>
+      <img src="https://i.pinimg.com/736x/5f/9c/1d/5f9c1d9d15167e0a59e6dad41e8556f9.jpg" alt="Krishna Soni" width="200">
+      <figcaption>Just me trying to blog 😅</figcaption>
+    </figure>
+    <p>Hi guys, I’m <strong>Krishna Soni</strong>, and this is my very first blog!  
+    I don’t know much about blogging yet, but I wanted to give it a try 🙂</p>
+    <p>Some silly guy who loves to code and lift weights 💪</p>
+  </section>
+
+  <hr>
+
+  <!-- Stories Section -->
+  <section id="stories">
+    <h2>Stories</h2>
+
+    <article>
+      <h3>How I Manage My College and Personal Life</h3>
+      <p>Hi, I’m Krishna Soni, a student currently exploring my interests, building habits, and trying to improve myself one step at a time.</p>
+      <p>This is my very first blog post—and honestly, I’m as excited as I am nervous.  
+      I decided to start this blog as part of my first mini project. Instead of just writing random things, I wanted to make it personal.  
+      So, I’ll be sharing stories about my life, my journey, and the things I’m learning along the way.</p>
+    </article>
+
+    <article>
+      <h3>My Web Development Journey</h3>
+      <p>Right now, I’m learning web development and I want to share my journey so far.  
+      I recently started learning, and it feels overwhelming at times—but also fun.  
+      Writing my first HTML form felt like an achievement (even though it was a small project).  
+      I believe sharing my journey—mistakes, small wins, and experiments—can not only track my progress but maybe inspire someone else too.</p>
+    </article>
+
+  </section>
+
+  <hr>
+
+  <!-- Footer -->
+  <footer id="contact">
+    <p>&copy; 2025 Krishna Soni</p>
+    <p>
+      <a href="#">Archive</a> | 
+      <a href="#">Legal</a> | 
+      <a href="krishnasoni.com">Email Me</a>
+    </p>
+  </footer>
+
+</body>
+</html>
+
+
+
+
+
