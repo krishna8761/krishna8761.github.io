@@ -9,9 +9,6 @@ The blog includes:
 
 I created this project as part of my web development journey and will keep improving it step by step 🚀.
 
-## 🌐 Live Demo
-Check out the live blog here: [View Blog](https://krishna8761.github.io/my-blog/)
-
 ## 📌 Features
 - Clean and minimal design
 - Pure HTML (no CSS/JS yet)
